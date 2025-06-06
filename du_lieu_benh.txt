@@ -1,0 +1,101 @@
+Tên bệnh,Mức độ khẩn cấp
+Nhồi máu cơ tim cấp,0
+Đột quỵ não cấp,0
+Vỡ phình động mạch chủ,0
+Chấn thương sọ não hở,0
+Xuất huyết tiêu hóa nặng,0
+Sốc phản vệ,0
+Phù phổi cấp,0
+Suy hô hấp cấp,0
+Ép tim cấp,0
+Hôn mê tiểu đường,0
+Cơn co giật toàn thân kéo dài,0
+Ngộ độc cấp tính nặng,0
+Thiếu máu cấp nặng,0
+Bỏng độ III/IV diện rộng,0
+Vỡ tạng rỗng,0
+Viêm màng não mủ,0
+Sốt xuất huyết Dengue nặng,0
+Cơn tăng huyết áp khẩn cấp,0
+Tắc nghẽn đường thở cấp,0
+Thuyên tắc phổi cấp,0
+Viêm ruột thừa cấp,1
+Sỏi thận cấp gây đau quặn,1
+Gãy xương hở,1
+Cơn hen phế quản cấp,1
+Viêm túi mật cấp,1
+Chảy máu cam nặng không cầm được,1
+Viêm tụy cấp,1
+Thiếu máu cơ tim không ST chênh lên,1
+Tiểu đường nhiễm toan ceton,1
+Cơn Gout cấp tính nặng,1
+Nhiễm trùng huyết nghi ngờ,1
+Áp xe não,1
+Cơn tăng nhãn áp cấp,1
+Viêm phúc mạc,1
+Tắc ruột cấp,1
+Bóng đè kéo dài,1
+Cơn đau thắt ngực không ổn định,1
+Nhiễm trùng đường tiết niệu có sốt cao,1
+Sốt cao co giật ở trẻ em,1
+Ngộ độc thực phẩm nghi ngờ nghiêm trọng,1
+Viêm phổi,2
+Viêm dạ dày ruột cấp nặng,2
+Sốt xuất huyết Dengue có dấu hiệu cảnh báo,2
+Rối loạn nhịp tim mới xuất hiện,2
+Thoái hóa khớp gối cấp đau nặng,2
+Nhiễm trùng vết mổ có mủ,2
+Viêm đường tiết niệu không biến chứng,2
+Thiếu máu mạn tính có triệu chứng,2
+Đau nửa đầu Migraine nặng,2
+Viêm tai giữa cấp có mủ,2
+Zona thần kinh diện rộng,2
+Viêm loét dạ dày tá tràng chảy máu nhẹ,2
+Viêm phế quản cấp,2
+Gãy xương kín không biến chứng,2
+Cơn đau bụng không rõ nguyên nhân nhưng kéo dài,2
+Viêm xoang cấp có biến chứng,2
+Hạ đường huyết nhẹ đến trung bình,2
+Đau thần kinh tọa cấp,2
+Viêm gan cấp,2
+Trĩ tắc mạch,2
+Cảm cúm thông thường,3
+Viêm họng cấp,3
+Sốt siêu vi không biến chứng,3
+Đau lưng thông thường,3
+Viêm kết mạc,3
+Tiêu chảy cấp không mất nước,3
+Huyết áp cao không triệu chứng,3
+Tiểu đường Type 2 ổn định,3
+Viêm da cơ địa,3
+Mụn nhọt đơn thuần,3
+Đau đầu do căng thẳng,3
+Trĩ nội độ 1-2,3
+Táo bón mãn tính,3
+Viêm mũi dị ứng,3
+Đau khớp gối nhẹ,3
+Mất ngủ không nguyên nhân bệnh lý,3
+Say nắng nhẹ,3
+Nổi mề đay cấp tính,3
+Đau vai gáy,3
+Chấn thương phần mềm nhẹ,3
+Sổ mũi thông thường,4
+Hắt hơi,4
+Ho khan nhẹ,4
+Đau nhức cơ bắp do vận động,4
+Tê bì chân tay thoáng qua,4
+Nổi mụn trứng cá,4
+Vết thương hở nhỏ-nông,4
+Phồng rộp da do ma sát,4
+Sưng mắt cá chân nhẹ sau đi bộ,4
+Khó tiêu nhẹ,4
+Ợ nóng thỉnh thoảng,4
+Đầy hơi,4
+Nấc cụt,4
+Mệt mỏi không rõ nguyên nhân nhưng không ảnh hưởng sinh hoạt,4
+Da khô,4
+Chóng mặt thoáng qua,4
+Ngứa da không rõ nguyên nhân (không kèm phát ban),4
+Vết côn trùng cắn không độc,4
+Khàn tiếng nhẹ,4
+Nhiệt miệng,4
